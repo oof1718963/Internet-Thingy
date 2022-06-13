@@ -1,2 +1,2 @@
 # Internet-Thingy
-![alt text](http://url/to/vadim-bogulov-veSRX0sZDpQ-unsplash.png)
+!(http://url/to/vadim-bogulov-veSRX0sZDpQ-unsplash.png)
